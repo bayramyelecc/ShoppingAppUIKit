@@ -9,4 +9,8 @@ import UIKit
 
 class HeaderCell: UICollectionViewCell {
     
+    @IBOutlet weak var headerImage: UIImageView!
+    
+    
+    
 }
